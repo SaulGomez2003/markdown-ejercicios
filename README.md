@@ -19,4 +19,4 @@
 * [Ejercicio6](03-sistemas-de-codificación/ejercicio06/ejercico6.md)
 ## 04-estandaras-y-organismos-de-normalizacion
 * [Ejercicio1](04-estandares-y-organismo-de-normalizacion/ejercicio1/w3c.md)
-* [Ejercicio1](04-estandares-y-organismo-de-normalizacion/ejercicio2/etiquedas_html5.md)
+* [Ejercicio2](04-estandares-y-organismo-de-normalizacion/ejercicio2/etiquedas_html5.md)
